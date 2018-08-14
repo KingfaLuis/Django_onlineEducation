@@ -49,11 +49,8 @@ use the address: http://127.0.0.1:8000/form/
 #### 6. web系统知识以及网络安全
 #### 7. xadmin扩展知识
 
-## About me
-[简书](https://www.jianshu.com/u/db9a7a0daa1f) && [mtianyan's blog](http://blog.mtianyan.cn/)
+请加群：数据分析与数据挖掘：488531650
 
-有趣的Python群：619417153
-
-欢迎关注简书，star项目！谢谢！
+欢迎关注，star项目！谢谢！
 
 你的关注支持是我继续分享前进的动力。
